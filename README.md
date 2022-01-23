@@ -1,3 +1,5 @@
-# dbterminal
+# Sqlite terminal
 
-An Sqlite-Terminal
+A terminal to execute sql tasks.
+
+More information follows...
