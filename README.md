@@ -2,4 +2,15 @@
 
 A terminal to execute sql tasks.
 
-More information follows...
+---
+## Commands
+
+### Print
+
+| Command        | Usage                        |
+|----------------|------------------------------|
+| `print tables` | Prints tables of the database |
+| `print table`   | Prints active table          |
+
+---
+Further information follows.
